@@ -1,1 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <body bgcolor="brown"></body>
+    <head> 
+    <title> F.R.I.E.N.D.S</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1>KMOW EVERYTHING ABOUT MY FRIEND</h1>
+        <h3>This Site is Designed by ITHUB0966(PRACHI)</h3>
+        <img src="https://i.pinimg.com/736x/ef/22/b9/ef22b918d1832c034a99454b7d3831b8.jpg"
+        <p id="para1" class="centre largeFont">My Friend's <span style="color:black">daily routine</span> in order</p>
+        <div class="container"
+        <ol class="myOL">
+            <li>Wake up</li>
+            <li>Breakfast</li>
+            <li>College and classes</li>
+            <li>Lunch</li>
+            <li>Chores</li>
+            <li>Chill</li>
+            <li>Dinner</li>
+            <li>Study</li>
+            <li>Sleep</li>
+        </ol>
+        <div>
+            <p id="para2" class="centre">My Friend's fav<span style="color:blue">Restaurants</span>:</p>
+            <p class="centre">This is my new paragraph</p>
+            <div class="container">
+            <ul class="myOL"
+                <li>Behrouz Biryani</li>
+                <li>Upland Bistro</li>
+                <li>Cafe Coffee day</li>
+            
+        <ul>
+        <div>
+        <h3 style="position: fixed;">This is a table</h3>
+            <table class="table"
+                <tr>
+                    <th>Name</th>
+                    <th>Birthday</th>
+                    <th>Zodiac Sign</th>
+                    <th>Loves to eat</th>
+                    <th>Fav Movies</th>
+                    <th>Hobby</th>
+                    <th>Her Pets Photo</th>
+                    <th>Her fav Video</th>
 
+                </tr>
+                <tr>
+                    <td>Sampada</td>
+                    <td>26th May</td>
+                    <td>Gemini</td>
+                    <td>Not really a foodie a dessert person</td>
+                    <td>Ee Nagaraniki Emaindi</td>
+                    <td>Reading Books and journalling</td>
+                    <td>Doesnt have a pet</td>
+                    <td><video width="320" height="240" controls>
+                        <source src="https://www.dailymotion.com/video/x3rpoq7" type="video/mp4">
+                    </video> 
+                    </td>
+                </tr>
+            </table>
+        </ul>
