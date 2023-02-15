@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <body bgcolor="brown"></body>
+    <body bgcolor="orchid">
     <head> 
     <title> F.R.I.E.N.D.S</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     </head>
-    <body>
-        <h1>KMOW EVERYTHING ABOUT MY FRIEND</h1>
-        <h3>This Site is Designed by ITHUB0966(PRACHI)</h3>
+   
+        <h1 style=" left : 500px">KMOW EVERYTHING ABOUT MY FRIEND</h1>
+        <h3 >This Site is Designed by ITHUB0966(PRACHI)</h3>
         <img src="https://i.pinimg.com/736x/ef/22/b9/ef22b918d1832c034a99454b7d3831b8.jpg"
         <p id="para1" class="centre largeFont">My Friend's <span style="color:black">daily routine</span> in order</p>
         <div class="container"
@@ -60,4 +60,8 @@
                     </td>
                 </tr>
             </table>
-        </ul>
+        </body>
+    </html>
+
+
+    
