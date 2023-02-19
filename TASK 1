@@ -1,3 +1,4 @@
+#index.html
 <!DOCTYPE html>
 <html>
     <body bgcolor="orchid">
@@ -63,5 +64,50 @@
         </body>
     </html>
 
+#style.css
+body {
+    background-color:lightblue;
+    text-align: center;
+  }
+
+  h1 {
+    color: chocolate;
+  }
+
+  #para1 {
+    color:blueviolet
+  }
+
+  #para2 {
+    color:crimson
+  }
+
+  p {
+    text-align: left;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .largeFont {
+    font-size: large;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  .myOL {
+    display: inline-block;
+    text-align: center;
+  }
+
+  .table {
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+    border-style: solid;
+  }
 
     
